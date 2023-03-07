@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aliesz Blog</title>
+    <link>https://aliessz.github.io/</link>
+    <description>Recent content on Aliesz Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <managingEditor>i@aliesz.top (Aliesz)</managingEditor>
+    <webMaster>i@aliesz.top (Aliesz)</webMaster>
+    <copyright>Aliesz个人博客</copyright><atom:link href="https://aliessz.github.io/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
